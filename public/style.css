@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  width: 1380px;
+  /* width: 1380px; */
   overflow-x: hidden;
 }
 .x {
@@ -206,6 +206,9 @@ p.mission {
 }
 .foot {
   background-color: #004a74;
+}
+.cq{
+  width: 100%;
 }
 .named {
   display: flex;

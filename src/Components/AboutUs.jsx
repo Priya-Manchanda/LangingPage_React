@@ -8,7 +8,7 @@ function AboutUs() {
         <img src="./path834.png" />
         <img src="./Rectangle 13.png" />
       </div>
-      <img className="family" src="./Family.png" />
+      <img className="family cq" src="./Family.png" />
       <div className="yo">
         <p className="z">
           We endeavour to built homes which make it's residents happy and proud
@@ -66,7 +66,7 @@ function AboutUs() {
           </div>
         </div>
       </div>
-      <img src="./Rectangle 68.png" />
+      <img className="cq" src="./Rectangle 68.png" />
       <div className="paragraph">
         <p className="text1">
           Established in 1992, Hetali Group is a leading real estate developer
@@ -89,7 +89,7 @@ function AboutUs() {
           home user.
         </p>
       </div>
-      <img src="./Vision.png" />
+      <img className="cq" src="./Vision.png" />
     </div>
   );
 }
