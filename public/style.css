@@ -1,0 +1,245 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  width: 1380px;
+  overflow-x: hidden;
+}
+.x {
+  color: #4f4f4f;
+  font-family: Roboto Flex;
+  text-decoration: none;
+  line-height: 24px;
+}
+.y {
+  color: #474747;
+  font-family: Cinzel;
+  text-align: center;
+  padding: 20px;
+}
+.z {
+  font-family: Roboto Flex;
+  text-align: center;
+  font-style: italic;
+  color: #474747;
+  font-weight: bolder;
+  font-size: 16px;
+  padding-top: 60px;
+  letter-spacing: 3%;
+  width: 800px;
+  vertical-align: top;
+}
+.yo {
+  padding-left: 300px;
+}
+.centre {
+  text-align: center;
+  padding: 25px;
+}
+.centre1 {
+  width: 600px;
+  height: 5px;
+}
+.family {
+  width: 1380px;
+  height: 214.86px;
+}
+.container {
+  width: 1000px;
+  margin-bottom: 100px;
+}
+.container1,
+.container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.item {
+  height: 300px;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  justify-items: flex-start;
+  width: 40%;
+  margin: 1%;
+}
+.item img {
+  margin-bottom: 15px;
+  justify-self: flex-start;
+}
+.text {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.03em;
+  color: #474747;
+}
+.text1 {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  text-align: justify;
+  letter-spacing: 0.03em;
+  text-align: auto;
+}
+.paragraph {
+  margin: auto;
+  padding-top: 40px;
+  vertical-align: auto;
+  width: 800px;
+  height: 600px;
+}
+p.mission {
+  text-align: center;
+  padding: 25px;
+  letter-spacing: 0.1em;
+  font-size: 30px;
+  font-family: Cinzel;
+}
+.change {
+  width: 450px;
+  height: 350px;
+}
+.change5 {
+  width: 450px;
+  height: 430px;
+}
+.change1 {
+  font-family: Roboto Flex;
+  font-weight: 100;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  border-radius: 5%;
+  padding: 15px;
+}
+.pi {
+  color: #474747;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.c {
+  color: #919191;
+  font-weight: 1000;
+  font-size: 20px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  border-radius: 5%;
+  padding: 10px;
+}
+.struc1 {
+  width: 400px;
+  font-family: Roboto Flex;
+  margin-left: 20px;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.soci {
+  font-family: Cinzel;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  letter-spacing: 3px;
+  color: #474747;
+  padding: 30px;
+}
+.social {
+  font-family: Roboto Flex;
+  width: 400px;
+}
+.mid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px black solid;
+  width: 200px;
+  border-radius: 50%;
+}
+.pic {
+  color: #474747;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+.message {
+  width: 80%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  padding-bottom: 15px;
+}
+.big {
+  text-align: center;
+  width: 500px;
+  color: #474747;
+  font-family: Roboto Flex;
+  font-style: italic;
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-left: 27%;
+  padding: 50px;
+}
+.xic {
+  text-align: left;
+  width: 1000px;
+  color: #474747;
+  line-height: 30px;
+  margin-left: 5%;
+}
+.image {
+  padding: 40px;
+}
+.foot {
+  background-color: #004a74;
+}
+.named {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.named1 {
+  display: flex;
+  flex-direction: row;
+}
+.cut {
+  margin-top: 10px;
+  margin-left: 80px;
+}
+.dark {
+  font-size: 20px;
+  font-weight: bold;
+}
+th,
+td {
+  padding: 5px;
+}
+.colour1 {
+  color: white;
+}
+.foot {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.colour {
+  margin-right: 600px;
+}
